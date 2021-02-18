@@ -1,0 +1,12 @@
+digraph G{
+	rankdir = LR;
+	cadena -> A
+	A -> A [label = "a"];
+	A -> B [label = "b"];
+	B -> B [label = "b"];
+	B -> C [label = "a"];
+	C -> A [label = "a"];
+	C -> B [label = "b"];
+	B [shape=doublecircle];
+	C [shape=doublecircle];
+}

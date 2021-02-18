@@ -1,0 +1,33 @@
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\USER\source\LFP\Practica 1\Practica1\Practica1\obj\Debug\Practica1.informacion.resources
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.informacion.resources
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\USER\Desktop\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.informacion.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\[LFP]Practica1_201700893\[LFP]Practica1_201700893\Practica1\Practica1\obj\Debug\Practica1.pdb

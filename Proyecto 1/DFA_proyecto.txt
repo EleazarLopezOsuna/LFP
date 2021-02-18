@@ -1,0 +1,17 @@
+digraph G{
+	rankdir = LR;
+	A -> B [label = "L"];
+	A -> C [label = "''"];
+	A -> D [label = "S"];
+	B -> B [label = "L"];
+	C -> E [label = "K"];
+	E -> F [label = "''"];
+	E -> E [label = "K"];
+	B [shape = doublecircle];
+	D [shape = doublecircle];
+	F [shape = doublecircle];
+	"Sea:
+L = {a...zA...Z}
+S = {<,>,=,/}
+K = Alfanumerico" [shape = plaintext]
+}

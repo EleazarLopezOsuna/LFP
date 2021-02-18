@@ -1,0 +1,34 @@
+digraph G{
+	rankdir = LR;
+	cadena -> A
+	A -> B [label = "a"];
+	A -> C [label = "b"];
+	B -> D [label = "a"];
+	B -> E [label = "b"];
+	B -> F [label = "c"];
+	C -> G [label = "a"];
+	C -> H [label = "b"];
+	C -> F [label = "c"];
+	D -> D [label = "a"];
+	D -> E [label = "b"];
+	D -> I [label = "c"];
+	E -> E [label = "b"];
+	E -> J [label = "c"];
+	F -> G [label = "a"];
+	F -> E [label = "b"];
+	F -> F [label = "c"];
+	G -> G [label = "a"];
+	G -> J [label = "c"];
+	H -> G [label = "a"];
+	H -> H [label = "b"];
+	H -> I [label = "c"];
+	I -> G [label = "a"];
+	I -> E [label = "b"];
+	I -> F [label = "c"];
+	D [shape=doublecircle];
+	E [shape=doublecircle];
+	G [shape=doublecircle];
+	H [shape=doublecircle];
+	I [shape=doublecircle];
+	J [shape=doublecircle];
+}

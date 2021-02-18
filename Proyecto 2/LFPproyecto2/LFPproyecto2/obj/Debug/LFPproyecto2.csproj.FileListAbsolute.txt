@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\bin\Debug\LFPproyecto2.exe.config
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\bin\Debug\LFPproyecto2.exe
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\bin\Debug\LFPproyecto2.pdb
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.Form1.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.informacion.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.Properties.Resources.resources
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.exe
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.pdb
+C:\Users\USER\Desktop\U\Cuarto Semestre\LFP\Proyecto 2\LFPproyecto2\LFPproyecto2\obj\Debug\LFPproyecto2.Tablero.resources

@@ -1,0 +1,10 @@
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\bin\Debug\tarea 3.exe.config
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\bin\Debug\tarea 3.exe
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\bin\Debug\tarea 3.pdb
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea 3.csprojAssemblyReference.cache
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea_3.Form1.resources
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea_3.Properties.Resources.resources
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea 3.csproj.GenerateResource.cache
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea 3.exe
+C:\Users\USER\source\LFP\Tarea 3\tarea 3\tarea 3\obj\Debug\tarea 3.pdb
